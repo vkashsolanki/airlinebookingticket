@@ -1,0 +1,2 @@
+# airlinebookingticket
+ Airline ticket booking system that provides air transport services for traveling  passengers. The tickets issued should have the details such as plane number, ticket number,  seat number, traveler’s name, time of departure. The traveler should be informed about the  check-in time. The names of the fields involved in the airline management system are. • Flight detail • Check availability • Book ticket • Exit
